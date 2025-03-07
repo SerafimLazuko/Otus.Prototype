@@ -1,13 +1,13 @@
 ## Оглавление
-- [Интерфейс IClonableShopEntity](https://github.com/SerafimLazuko/Otus.Protopype/edit/master/README.md#%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81-iclonableshopentity)
-- [Абстрактный класс ItemBase](https://github.com/SerafimLazuko/Otus.Protopype/edit/master/README.md#%D0%B0%D0%B1%D1%81%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%BD%D1%8B%D0%B9-%D0%BA%D0%BB%D0%B0%D1%81%D1%81-itembase)
-- [Класс Item](https://github.com/SerafimLazuko/Otus.Protopype/edit/master/README.md#%D0%BA%D0%BB%D0%B0%D1%81%D1%81-item)
-- [Абстрактный класс ItemListBase](https://github.com/SerafimLazuko/Otus.Protopype/edit/master/README.md#%D0%B0%D0%B1%D1%81%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%BD%D1%8B%D0%B9-%D0%BA%D0%BB%D0%B0%D1%81%D1%81-itemlistbase)
-- [Класс PromotionalBundle](https://github.com/SerafimLazuko/Otus.Protopype/edit/master/README.md#%D0%BA%D0%BB%D0%B0%D1%81%D1%81-promotionalbundle)
-- [Класс DailyShoppingBundle](https://github.com/SerafimLazuko/Otus.Protopype/edit/master/README.md#%D0%BA%D0%BB%D0%B0%D1%81%D1%81-dailyshoppingbundle)
-- [Программа для тестирования](https://github.com/SerafimLazuko/Otus.Protopype/edit/master/README.md#%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
-- [Получившийся вывод](https://github.com/SerafimLazuko/Otus.Protopype/edit/master/README.md#%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D0%B2%D1%88%D0%B8%D0%B9%D1%81%D1%8F-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4)
-- [Преимущества и недостатки интерфейсов](https://github.com/SerafimLazuko/Otus.Protopype/edit/master/README.md#iclonableshopentity)
+- [Интерфейс IClonableShopEntity](#интерфейс-iclonableshopentity)
+- [Абстрактный класс ItemBase](#абстрактный-класс-itembase)
+- [Класс Item](#класс-item)
+- [Абстрактный класс ItemListBase](#абстрактный-класс-itemlistbase)
+- [Класс PromotionalBundle](#класс-promotionalbundle)
+- [Класс DailyShoppingBundle](#класс-dailyshoppingbundle)
+- [Программа для тестирования](#программа-для-тестирования)
+- [Получившийся вывод](#получившийся-вывод)
+- [Преимущества и недостатки интерфейсов](#преимущества)
 
 ### Интерфейс IClonableShopEntity
 
