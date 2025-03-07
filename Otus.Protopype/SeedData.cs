@@ -1,6 +1,6 @@
-﻿using Otus.Protopype.Domain.Models;
+﻿using Otus.Prototype.Domain.Models;
 
-namespace Otus.Protopype;
+namespace Otus.Prototype;
 
 public static class SeedData
 {

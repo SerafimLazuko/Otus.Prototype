@@ -1,4 +1,4 @@
-﻿namespace Otus.Protopype.Domain.Models;
+﻿namespace Otus.Prototype.Domain.Models;
 
 public class Item : ItemBase, ICloneable
 {
@@ -31,7 +31,7 @@ public class Item : ItemBase, ICloneable
         DiscountAppliedPrice = price * (1 - discount);
     }
 
-    public Item(Item prototype) : base(prototype) 
+    public Item(Item prototype) : base(prototype)
     {
         Discount = prototype.Discount;
         PromotionStartDate = prototype.PromotionStartDate;

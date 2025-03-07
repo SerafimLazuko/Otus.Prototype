@@ -1,4 +1,4 @@
-﻿namespace Otus.Protopype.Domain.Models;
+﻿namespace Otus.Prototype.Domain.Models;
 
 public class DailyShoppingBundle : ItemListBase
 {
@@ -14,7 +14,7 @@ public class DailyShoppingBundle : ItemListBase
         Description = description;
     }
 
-    public DailyShoppingBundle(DailyShoppingBundle prototype) : base(prototype.CreationDate, prototype.Items) 
+    public DailyShoppingBundle(DailyShoppingBundle prototype) : base(prototype.CreationDate, prototype.Items)
     {
         ListName = prototype.ListName;
         Description = prototype.Description;

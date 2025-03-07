@@ -1,4 +1,4 @@
-﻿namespace Otus.Protopype.Domain.Models;
+﻿namespace Otus.Prototype.Domain.Models;
 
 public abstract class ItemListBase : IClonableShopEntity<ItemListBase>, ICloneable
 {
@@ -8,7 +8,7 @@ public abstract class ItemListBase : IClonableShopEntity<ItemListBase>, ICloneab
         Items = items;
     }
 
-    public ItemListBase(ItemListBase prototype) : this(prototype.CreationDate, prototype.Items) 
+    public ItemListBase(ItemListBase prototype) : this(prototype.CreationDate, prototype.Items)
     {
     }
 

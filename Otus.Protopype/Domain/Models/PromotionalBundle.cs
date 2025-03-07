@@ -1,4 +1,4 @@
-﻿namespace Otus.Protopype.Domain.Models;
+﻿namespace Otus.Prototype.Domain.Models;
 
 public class PromotionalBundle : ItemListBase
 {
